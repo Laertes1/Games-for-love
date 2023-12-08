@@ -1,4 +1,4 @@
-# :video_game:Games-for-love :video_game:
+#  Games-for-love :video_game:
 
 ## Sobe o projeto
 <h5>Esse é um CRUD(create, read, update, e delete) feito com a intenção da aprimorar minhas habilidades com o back-end</h5>
