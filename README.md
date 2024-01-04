@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 <h3>Esse é o meu primeiro CRUD feito com o intuito de ganhar habilidades com back-end e com banco de dados. Ele consiste em um site em que o usuário pode procurar, adicionar e deletar jogos que ficam armazenados no banco de dados.</h5>
-
+<hr>
 <h2 align="center"> :computer: Tecnologias utilizadas :computer: </h2>
 
 ### Back-end
@@ -32,6 +32,8 @@
 ```
 npm install axios 
 ```
+
+<hr>
 
 ## Sobre mim :wave:
 
